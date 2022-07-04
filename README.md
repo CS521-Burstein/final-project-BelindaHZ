@@ -1,2 +1,7 @@
-# final-project-CS521
-final-project-BelindaHZ created by GitHub Classroom
+Project Topic: House Price Predictor
+Team members: Hanfang Zhang, Wenqing Fan, Zengrui Luo
+
+Project Summary: 
+
+
+
